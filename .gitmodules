@@ -1,0 +1,9 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/habit-rewards-output.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/habit-rewards-sources.git
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git
